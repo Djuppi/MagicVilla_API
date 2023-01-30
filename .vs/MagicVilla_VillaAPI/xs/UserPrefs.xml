@@ -1,14 +1,32 @@
 ﻿<Properties StartupConfiguration="{A36AB01B-1084-4ACD-BC4D-A4AB3E054930}|https">
-  <MonoDevelop.Ide.ItemProperties.MagicVilla__VillaAPI PreferredExecutionTarget="/Applications/Vivaldi.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MagicVilla__VillaAPI PreferredExecutionTarget="/Applications/Vivaldi.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicVilla_VillaAPI/Program.cs">
+    <Files>
+      <File FileName="MagicVilla_VillaAPI/Controllers/VillaAPIController.cs" Line="18" Column="51" />
+      <File FileName="MagicVilla_VillaAPI/Logging/ILogging.cs" Line="10" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Logging/Logging.cs" Line="6" Column="9" />
+      <File FileName="MagicVilla_VillaAPI/Program.cs" Line="41" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Logging/LogginV2.cs" Line="29" Column="10" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MagicVilla_VillaAPI" expanded="True">
-            <Node name="MagicVilla_VillaAPI" expanded="True" selected="True" />
+            <Node name="MagicVilla_VillaAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Logging" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Dto" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

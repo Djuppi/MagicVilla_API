@@ -31,3 +31,17 @@
 /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.pdb
 /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.genruntimeconfig.cache
 /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/obj/Debug/net7.0/ref/MagicVilla_VillaAPI.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
