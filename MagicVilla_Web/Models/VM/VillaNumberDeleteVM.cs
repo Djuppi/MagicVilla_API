@@ -5,14 +5,14 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace MagicVilla_Web.Models.VM
 {
-	public class VillaNumberCreateVM
+	public class VillaNumberDeleteVM
 	{
-		public VillaNumberCreateVM()
+		public VillaNumberDeleteVM()
 		{
-			VillaNumber = new VillaNumberCreateDTO();
+			VillaNumber = new VillaNumberDTO();
 		}
 
-		public VillaNumberCreateDTO VillaNumber { get; set; }
+		public VillaNumberDTO VillaNumber { get; set; }
 		[ValidateNever]
 		public IEnumerable<SelectListItem> VillaList { get; set; }
 	}

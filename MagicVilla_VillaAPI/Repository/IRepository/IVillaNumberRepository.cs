@@ -5,9 +5,9 @@ using MagicVilla_VillaAPI.Models;
 
 namespace MagicVilla_VillaAPI.Repository.IRepository
 {
-	public interface IVillaRepository : IRepository<Villa>
+	public interface IVillaNumberRepository : IRepository<VillaNumber>
 	{
-        Task<Villa> UpdateAsync(Villa entity);
+        Task<VillaNumber> UpdateAsync(VillaNumber entity);
     }
 }
 

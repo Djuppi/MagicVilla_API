@@ -1,40 +1,96 @@
-﻿<Properties StartupConfiguration="{A36AB01B-1084-4ACD-BC4D-A4AB3E054930}|https">
+﻿<Properties StartupConfiguration="Multiple Projects" GitUserInfo="UsingMD">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{A36AB01B-1084-4ACD-BC4D-A4AB3E054930}" ItemName="MagicVilla_VillaAPI" ConfigurationId="https" />
+        <StartupItem ItemId="{1278F636-C011-4CB5-A9D3-06319165000E}" ItemName="MagicVilla_Web" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.MagicVilla__Web PreferredExecutionTarget="/Applications/Vivaldi.app" />
   <MonoDevelop.Ide.ItemProperties.MagicVilla__VillaAPI PreferredExecutionTarget="/Applications/Vivaldi.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MagicVilla_VillaAPI/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicVilla_VillaAPI/Controllers/VillaNumberAPIController.cs">
     <Files>
-      <File FileName="MagicVilla_VillaAPI/Controllers/VillaAPIController.cs" Line="18" Column="51" />
-      <File FileName="MagicVilla_VillaAPI/Logging/ILogging.cs" Line="10" Column="1" />
-      <File FileName="MagicVilla_VillaAPI/Logging/Logging.cs" Line="6" Column="9" />
-      <File FileName="MagicVilla_VillaAPI/Program.cs" Line="4" Column="1" />
-      <File FileName="MagicVilla_VillaAPI/Logging/LogginV2.cs" Line="29" Column="10" />
-      <File FileName="MagicVilla_VillaAPI/Models/Villa.cs" Line="20" Column="1" />
-      <File FileName="MagicVilla_VillaAPI/Models/Dto/VillaDTO.cs" Line="22" Column="1" />
+      <File FileName="MagicVilla_Web/Controllers/VillaNumberController.cs" Line="44" Column="1" />
+      <File FileName="MagicVilla_Web/Views/VillaNumber/UpdateVillaNumber.cshtml" Line="1" Column="52" />
+      <File FileName="MagicVilla_Web/Views/VillaNumber/DeleteVillaNumber.cshtml" Line="39" Column="8" />
+      <File FileName="MagicVilla_Web/Views/VillaNumber/CreateVillaNumber.cshtml" Line="48" Column="1" />
+      <File FileName="MagicVilla_Web/Views/VillaNumber/IndexVillaNumber.cshtml" Line="27" Column="1" />
+      <File FileName="MagicVilla_Web/Views/_ViewStart.cshtml" Line="2" Column="1" />
+      <File FileName="MagicVilla_Web/Services/BaseService.cs" Line="85" Column="1" />
+      <File FileName="MagicVilla_Web/Controllers/HomeController.cs" Line="33" Column="1" />
+      <File FileName="MagicVilla_Web/Services/VillaNumberService.cs" Line="18" Column="1" />
+      <File FileName="MagicVilla_Web/Services/VillaService.cs" Line="18" Column="1" />
+      <File FileName="MagicVilla_Web/Models/APIRequest.cs" Line="8" Column="1" />
+      <File FileName="MagicVilla_Web/Views/Shared/_Layout.cshtml" Line="51" Column="1" />
+      <File FileName="MagicVilla_Web/Services/IServices/IVillaNumberService.cs" Line="11" Column="40" />
+      <File FileName="MagicVilla_VillaAPI/Models/Dto/VillaNumberUpdateDTO.cs" Line="9" Column="41" />
+      <File FileName="MagicVilla_VillaAPI/Models/Dto/VillaNumberDTO.cs" Line="19" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Models/Dto/VillaNumberCreateDTO.cs" Line="1" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Models/Dto/VillaUpdateDTO.cs" Line="20" Column="19" />
+      <File FileName="MagicVilla_Web/Models/Dto/VillaUpdateDTO.cs" Line="1" Column="1" />
+      <File FileName="MagicVilla_Web/Models/Dto/VillaNumberDTO.cs" Line="15" Column="24" />
+      <File FileName="MagicVilla_VillaAPI/Controllers/VillaNumberAPIController.cs" Line="11" Column="2" />
+      <File FileName="MagicVilla_VillaAPI/Models/APIResponse.cs" Line="16" Column="1" />
+      <File FileName="MagicVilla_Web/Services/IServices/IBaseService.cs" Line="9" Column="11" />
+      <File FileName="MagicVilla_Web/Models/APIResponse.cs" Line="1" Column="1" />
+      <File FileName="MagicVilla_Web/Models/VM/VillaNumberUpdateVM.cs" Line="14" Column="1" />
+      <File FileName="MagicVilla_Web/Models/Dto/VillaNumberUpdateDTO.cs" Line="14" Column="1" />
+      <File FileName="MagicVilla_Web/Program.cs" Line="1" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Program.cs" Line="4" Column="32" />
+      <File FileName="MagicVilla_VillaAPI/appsettings.json" Line="6" Column="6" />
+      <File FileName="MagicVilla_VillaAPI/MappingConfig.cs" Line="5" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Logging/LoggingV2.cs" Line="4" Column="24" />
+      <File FileName="MagicVilla_VillaAPI/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Controllers/VillaAPIController.cs" Line="4" Column="32" />
+      <File FileName="MagicVilla_VillaAPI/Repository/IRepository/IVillaRepository.cs" Line="1" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Repository/Repository.cs" Line="56" Column="96" />
+      <File FileName="MagicVilla_VillaAPI/Repository/VillaNumberRepository.cs" Line="1" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Repository/VillaRepository.cs" Line="28" Column="1" />
+      <File FileName="MagicVilla_VillaAPI/Repository/IRepository/IRepository.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MagicVilla_VillaAPI" expanded="True">
+            <Node name="MagicVilla_Utility" expanded="True" />
             <Node name="MagicVilla_VillaAPI" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="VillaNumberAPIController.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True" />
-              <Node name="Logging" expanded="True" />
               <Node name="Models" expanded="True">
                 <Node name="Dto" expanded="True" />
               </Node>
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="IRepository" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="MagicVilla_Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Dto" expanded="True" />
+                <Node name="VM" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="IServices" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Villa" expanded="True" />
+                <Node name="VillaNumber" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5RXfhs7lJfFU+kpBYBxeam6Fh4O/DqXayr1ebj1TrtlGPy99+1qONHT3x2cxxwAAsoCZaUwVNROR/cNN5/qgQ==",
+  "success": true,
+  "projectFilePath": "/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/MagicVilla_Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/djuppi/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/djuppi/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/djuppi/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/djuppi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/djuppi/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/djuppi/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/djuppi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/djuppi/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
