@@ -124,6 +124,7 @@ namespace MagicVilla_Web.Controllers
                 var response = await _villaNumberService.UpdateAsync<APIResponse>(model.VillaNumber);
                 if (response != null && response.IsSuccess)
                 {
+                    TempData["success"] = "Good job";
                     return RedirectToAction(nameof(IndexVillaNumber));
                 }
                 else
@@ -150,12 +151,12 @@ namespace MagicVilla_Web.Controllers
 
         public async Task<IActionResult> DeleteVillaNumber(int villaNo)
         {
-            VillaNumberUpdateVM villaNumberVM = new();
+            VillaNumberDeleteVM villaNumberVM = new();
             var response = await _villaNumberService.GetAsync<APIResponse>(villaNo);
             if (response != null && response.IsSuccess)
             {
                 VillaNumberDTO model = JsonConvert.DeserializeObject<VillaNumberDTO>(Convert.ToString(response.Result));
-                villaNumberVM.VillaNumber = _mapper.Map<VillaNumberUpdateDTO>(model);
+                villaNumberVM.VillaNumber =model;
             }
 
             response = await _villaService.GetAllAsync<APIResponse>();

@@ -10,3 +10,14 @@
 /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Utility/obj/Debug/net7.0/refint/MagicVilla_Utility.dll
 /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.pdb
 /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Utility/obj/Debug/net7.0/ref/MagicVilla_Utility.dll
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.deps.json
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfo.cs
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\refint\MagicVilla_Utility.dll
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Utility\obj\Debug\net7.0\ref\MagicVilla_Utility.dll

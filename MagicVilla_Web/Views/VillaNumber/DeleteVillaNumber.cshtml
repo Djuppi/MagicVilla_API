@@ -26,13 +26,13 @@
                 <label asp-for="VillaNumber.SpecialDetails" class="control-label pt-2" style="font-size:20px;"></label>
             </div>
             <div class="col-10 mb-3">
-                <textarea asp-for="VillaNumber.SpecialDetails" disabled class="form-control" rows="5"></textarea>
+                <textarea asp-for="VillaNumber.SpecialDetails" readonly class="form-control" rows="5"></textarea>
             </div>
             <div class="col-5 offset-2">
-                <a asp-action="IndexVillaNumber" asp-controller="Villa" class="btn-primary btn form-control">Back to List</a>
+                <a asp-action="IndexVillaNumber" asp-controller="VillaNumber" class="btn-primary btn form-control">Back to List</a>
             </div>
             <div class="col-5">
-                <input type="submit" value="Delete" disabled class="btn btn-success form-control" />
+                <input type="submit" value="Delete" class="btn btn-danger form-control" />
             </div>
         </div>
     </div>

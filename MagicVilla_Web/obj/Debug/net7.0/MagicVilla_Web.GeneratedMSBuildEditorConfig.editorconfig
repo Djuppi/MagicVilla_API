@@ -9,69 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MagicVilla_Web
 build_property.RootNamespace = MagicVilla_Web
-build_property.ProjectDir = /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/
+build_property.ProjectDir = C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web
+build_property.MSBuildProjectDirectory = C:\Users\asked\Projects\MagicVilla_API\MagicVilla_Web
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Villa/CreateVilla.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGEvQ3JlYXRlVmlsbGEuY3NodG1s
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Villa/DeleteVilla.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGEvRGVsZXRlVmlsbGEuY3NodG1s
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/VillaNumber/CreateVillaNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcQ3JlYXRlVmlsbGFOdW1iZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Villa/IndexVilla.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGEvSW5kZXhWaWxsYS5jc2h0bWw=
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/VillaNumber/DeleteVillaNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcRGVsZXRlVmlsbGFOdW1iZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Villa/UpdateVilla.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGEvVXBkYXRlVmlsbGEuY3NodG1s
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/VillaNumber/IndexVillaNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcSW5kZXhWaWxsYU51bWJlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/VillaNumber/CreateVillaNumber.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGFOdW1iZXIvQ3JlYXRlVmlsbGFOdW1iZXIuY3NodG1s
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/VillaNumber/UpdateVillaNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcVXBkYXRlVmlsbGFOdW1iZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/VillaNumber/DeleteVillaNumber.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGFOdW1iZXIvRGVsZXRlVmlsbGFOdW1iZXIuY3NodG1s
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Villa/CreateVilla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcQ3JlYXRlVmlsbGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/VillaNumber/IndexVillaNumber.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGFOdW1iZXIvSW5kZXhWaWxsYU51bWJlci5jc2h0bWw=
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Villa/DeleteVilla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcRGVsZXRlVmlsbGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/VillaNumber/UpdateVillaNumber.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlsbGFOdW1iZXIvVXBkYXRlVmlsbGFOdW1iZXIuY3NodG1s
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Villa/IndexVilla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcSW5kZXhWaWxsYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Villa/UpdateVilla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcVXBkYXRlVmlsbGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/djuppi/Projects/MagicVilla_VillaAPI/MagicVilla_Web/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-1j36qcopc7
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asked/Projects/MagicVilla_API/MagicVilla_Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-is25y6sqrq
